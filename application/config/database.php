@@ -49,7 +49,7 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'dfusr';
+$db['default']['username'] = 'dynusr';
 $db['default']['password'] = 'dynflx';
 $db['default']['database'] = 'dynaflux_web';
 $db['default']['dbdriver'] = 'mysqli';
