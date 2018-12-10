@@ -170,8 +170,8 @@
 </div>
 
 <!-- JS -->
-<script src="http://www.google.com/recaptcha/api.js?hl=<?php echo $lang;?>"></script>
+<script src="://www.google.com/recaptcha/api.js?hl=<?php echo $lang;?>"></script>
 <script src="<?php echo Tools::PublicUrl('js/classes/MD5.js') ?>"></script>
 <script src="<?php echo Tools::PublicUrl('js/classes/MapManager.js') ?>"></script>
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB5KdzEXeNi92AUKTRxvO8NTPaxqS3cXiY&sensor=false"></script>
+<script src="://maps.googleapis.com/maps/api/js?key=AIzaSyB5KdzEXeNi92AUKTRxvO8NTPaxqS3cXiY&sensor=false"></script>
 <script src="<?php echo Tools::PublicUrl('js/contact.js') ?>"></script>
